@@ -15,4 +15,4 @@ I firstly inserted the DataSet, to continue by selecting interesting columns, an
 
 
 
-Al finalizar el proyecto, no se me permiti hacer push a Git a no ser que utilizara el Add . Se que no debia hacerlo pero no encontraba otra salida, asi que si debo corregir algo mañana lo hare encantado. :)
+Al finalizar el proyecto, no se me permitía hacer push a Git a no ser que utilizara el Add . Se que no debia hacerlo pero no encontraba otra salida, asi que si debo corregir algo mañana lo hare encantado. :)
