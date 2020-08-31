@@ -11,3 +11,8 @@ I firstly uploaded the DataSet, to then dwarf it, by using only the interesting 
 #Sharks Hungry Hour
 In this study, i have analysed the relationship between the hour of the day,and the number of attacks in it. 
 I firstly inserted the DataSet, to continue by selecting interesting columns, and deleting duplicates again. Then, i defined a Time column cleaner function, to then apply it to it, transforming the dirty hour information, into a 24 only different answers set, with no minutes or strings, to make the information more clear. i then analysed the number of attacks depending ont he hours, to notice that 11:00 IN THE MORNING IS THE SHARKS HUNGRY HOUR.
+
+
+
+
+Al finalizar el proyecto, no se me permiti hacer push a Git a no ser que utilizara el Add . Se que no debia hacerlo pero no encontraba otra salida, asi que si debo corregir algo mañana lo hare encantado. :)
